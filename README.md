@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Smradhi
+- 👋 Hi, I’m Samradhi
 - 👀 I’m interested in learning tech!!
 - 🌱 I’m currently learning engineering
 - 💞️ I’m looking to collaborate on tech programs
