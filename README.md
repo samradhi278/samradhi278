@@ -1,6 +1,6 @@
 # Samradhi Soni
 
-Third Year B.Tech (Artificial Intelligence)  
+Final Year B.Tech (Artificial Intelligence)  
 Banasthali Vidyapith, Jaipur  
 
 ---
